@@ -1,3 +1,5 @@
-'run.py'
-'test.py'
+run.py
+test.py
 *.bgra
+*.infrared
+*.depth
